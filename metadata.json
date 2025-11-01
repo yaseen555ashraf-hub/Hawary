@@ -1,0 +1,5 @@
+{
+  "name": "Hawary",
+  "description": "An AI-powered visual suite combining multiple creative tools for designers. It includes an image generator, image editor, prompt builder, creative visual assistant, and an image analyzer, all powered by Gemini.",
+  "requestFramePermissions": []
+}
